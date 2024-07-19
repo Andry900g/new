@@ -1,0 +1,65 @@
+body{
+    background-color: ;
+    justify-content: center;
+}
+.card{
+    float: left;
+    margin-top: 20px;
+    margin-left: 100px;
+    
+}
+<h1><center>AREA DE SOCIALES</center></h1>
+ <br>
+   <br>
+   <br>
+    <style>
+      body{
+          margin: 3em;
+      }
+      .card:hover{
+          transform: scale(1.1);
+      }
+      
+      .card{
+          transition:transform .5s; 
+      }
+     
+     </style>
+  
+  <div class="row mx-4">
+    
+ <center><div class="col">
+       
+       <div class="card" style="width: 18rem;">
+          <img src="historia.jpg" width="400" height="200" class="card-img-top" alt="imagen de tarjeta">
+          <div class="card-body">
+             <h1></h1>
+              <a href="#" class="btn btn-primary">ingresar</a>
+          </div>
+           
+       </div>
+         
+    </div></center>
+     
+    
+      
+  </div>
+  <br>
+  <br>   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
